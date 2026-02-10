@@ -23,17 +23,17 @@ I am a Computer Engineering student at Ho Chi Minh City University of Technology
 ---
 ## 🏆 Featured Projects
 
-### 🌿 [Autonomous IoT-Based Precision Irrigation System](https://github.com/your-repo/smart-garden)
+### 🌿 [Autonomous IoT-Based Precision Irrigation System]([https://github.com/your-repo/smart-garden](https://github.com/nghitrung/Auto-Watering-System))
 - **Award**: Achieved **GPA 4.0/4.0** for project excellence.
 - **Key Feature**: Implemented **FreeRTOS** for deterministic task synchronization using **Mutexes & Semaphores**.
 - **Hardware**: Custom PCB designed in Altium featuring MOSFET-based power isolation.
 
-### 🚦 [Crossroad Traffic Light Control System](https://github.com/your-repo/traffic-light)
+### 🚦 [Crossroad Traffic Light Control System]([https://github.com/your-repo/traffic-light](https://github.com/nghitrung/Crossroad-Traffic-Light))
 - **Core**: Developed a complex **FSM** in Verilog for 4-way intersection management. 
 - **Innovation**: Engineered a custom "Blinking Mode" for emergency vehicle priority.
 - **Validation**: Verified timing and logic stability via extensive **Vivado** testbenches.
 
-### 🔥 [Fire & Smoke Detector System](https://github.com/your-repo/fire-detector)
+### 🔥 [Fire & Smoke Detector System]([https://github.com/your-repo/fire-detector](https://github.com/nghitrung/Fire-Detection-System))
 - **Logic**: Analyzed Op-Amp principles to develop a precise analog signal processing circuit.
 - **Design**: Engineered a 2-layer PCB in Altium with optimized trace routing for noise reduction.
 ---
