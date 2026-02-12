@@ -38,7 +38,7 @@ I am a Computer Engineering student at Ho Chi Minh City University of Technology
 - **Design**: Engineered a 2-layer PCB in Altium with optimized trace routing for noise reduction.
 ---
 
-> "There are only two kinds of languages: the ones people complain about and the ones nobody uses" - Bjarne Stroustrup*
+> "There are only two kinds of languages: the ones people complain about and the ones nobody uses" - Bjarne Stroustrup
 <div align="center">
 Thanks for visiting my mansion 😊
 </div>
