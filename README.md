@@ -5,7 +5,7 @@
 I am a Computer Engineering student at Ho Chi Minh City University of Technology (HCMUT). My passion lies in low-level programming, embedded systems, and high-performance hardware architecture.
 ---
 ## 🚀 About Me
-- 🎓 **Education**: B.S. in Computer Engineering & M.S. in VLSI Design @ HCMUT.
+- 🎓 **Education**: B.S. in Computer Engineering & M.S. in Integrated Circuit Design @ HCMUT.
 - 💡 **Interests**: Specialized in **C/C++**, Verilog HDL, and Hardware Development.
 - 🛠️ **Current Focus**: Designing high-fidelity circuits and optimizing real-time embedded systems.
 - 🏸 **Hobbies**: When not engineering circuits, I'm playing badminton, lifting weights, or running.
